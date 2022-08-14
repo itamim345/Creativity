@@ -142,6 +142,9 @@ nav {
     margin-bottom: 3vw;
     width: 5rem;
 }
+.right-bottom ul {
+    padding-left: 0;
+}
 }
 
 
