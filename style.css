@@ -11,7 +11,7 @@ body{
     margin: 0 auto;
 }
 h1 {
-    font-size: 3rem;
+    font-size: 4rem;
 }
 h2 {
     font-size: 2rem;
@@ -64,7 +64,6 @@ nav {
     align-items:flex-end;
 }
 .right-top h1 {
-    font-size: 7vw;
     margin: 0;
     padding-left: 3vw;
 }
